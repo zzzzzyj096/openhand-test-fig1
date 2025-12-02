@@ -1,0 +1,14 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# Data cache
+data/allen_ecephys/
+
+# Environments
+.env
+.venv
+
+# OS files
+.DS_Store
+Thumbs.db

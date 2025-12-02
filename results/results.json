@@ -1,0 +1,70 @@
+{
+  "summary": [
+    {
+      "area": "LGN",
+      "n_units": 895,
+      "median_modulation_index": 3.873774767934179,
+      "median_image_selectivity": 0.2774745762711863,
+      "rank": 0
+    },
+    {
+      "area": "LP",
+      "n_units": 1443,
+      "median_modulation_index": 0.8709434973033445,
+      "median_image_selectivity": 0.1991355932203389,
+      "rank": 1
+    },
+    {
+      "area": "V1",
+      "n_units": 1992,
+      "median_modulation_index": 1.1650423172504587,
+      "median_image_selectivity": 0.48977966101694914,
+      "rank": 2
+    },
+    {
+      "area": "LM",
+      "n_units": 923,
+      "median_modulation_index": 0.8194360897402649,
+      "median_image_selectivity": 0.4423559322033897,
+      "rank": 3
+    },
+    {
+      "area": "AL",
+      "n_units": 1535,
+      "median_modulation_index": 0.7993183583548749,
+      "median_image_selectivity": 0.4245593220338984,
+      "rank": 4
+    },
+    {
+      "area": "RL",
+      "n_units": 1399,
+      "median_modulation_index": 0.8175789136629902,
+      "median_image_selectivity": 0.3920338983050848,
+      "rank": 5
+    },
+    {
+      "area": "PM",
+      "n_units": 868,
+      "median_modulation_index": 0.7334830077966773,
+      "median_image_selectivity": 0.37773728813559315,
+      "rank": 6
+    },
+    {
+      "area": "AM",
+      "n_units": 1483,
+      "median_modulation_index": 0.7522545222470222,
+      "median_image_selectivity": 0.385457627118644,
+      "rank": 7
+    }
+  ],
+  "spearman": {
+    "mod_idx_dg": {
+      "r": -0.9285714285714287,
+      "p": 0.0008629681828999769
+    },
+    "image_selectivity_ns": {
+      "r": 0.1666666666666667,
+      "p": 0.693238811728395
+    }
+  }
+}
